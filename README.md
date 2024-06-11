@@ -1,2 +1,2 @@
 # portfolio
-nowfis portfolio
+nowfis details of education qualification,skills ,intrests etc...
